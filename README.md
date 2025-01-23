@@ -20,6 +20,11 @@ sudo apt-get autoremove
 ```php
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 ```
+- to run it tye this command
+
+```php
+google-chrome-stable
+```
 
 ```php
 sudo apt install ./google-chrome-stable_current_amd64.deb
